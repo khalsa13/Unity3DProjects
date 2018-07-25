@@ -1,2 +1,2 @@
 # Unity3DProjects
-Consists of games developen with UNITY3D
+Consists of games developed with UNITY3D
